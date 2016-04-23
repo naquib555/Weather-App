@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherME</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="drawer_navigation"></string>
+    <string name="content_frame"></string>
+    <string name="left_drawer"></string>
+</resources>
